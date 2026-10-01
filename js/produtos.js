@@ -302,6 +302,7 @@ const PRODUTOS = [
   },
   {
     "num": 30,
+    "especifico": true,
     "nome": "Tapete de borracha Fiat Strada cabine simples",
     "descricao": "Nota 4,6 · +1 mil vendidos",
     "preco": "R$ 70,90",
@@ -372,6 +373,7 @@ const PRODUTOS = [
   },
   {
     "num": 37,
+    "especifico": true,
     "nome": "Protetor de motor francês CG 125/150/160",
     "descricao": "Nota 4,8 · +5 mil vendidos",
     "preco": "R$ 99,99",
@@ -382,6 +384,7 @@ const PRODUTOS = [
   },
   {
     "num": 38,
+    "especifico": true,
     "nome": "Protetor mata-cachorro com carenagem Bros",
     "descricao": "Nota 4,7 · +1 mil vendidos",
     "preco": "R$ 207,47",
@@ -522,6 +525,7 @@ const PRODUTOS = [
   },
   {
     "num": 52,
+    "especifico": true,
     "nome": "Pneu Firestone F-600 175/70 R14",
     "descricao": "Nota 4,9 · +10 mil vendidos",
     "preco": "R$ 377,89",
@@ -552,6 +556,7 @@ const PRODUTOS = [
   },
   {
     "num": 55,
+    "especifico": true,
     "nome": "Kit 4 pneus West Lake 185/65 R15",
     "descricao": "Nota 4,9 · +1 mil vendidos",
     "preco": "R$ 1.349,00",
@@ -562,6 +567,7 @@ const PRODUTOS = [
   },
   {
     "num": 56,
+    "especifico": true,
     "nome": "Pastilha de freio Cobreq Toro / Renegade",
     "descricao": "Nota 4,8 · +1 mil vendidos",
     "preco": "R$ 182,69",
@@ -582,6 +588,7 @@ const PRODUTOS = [
   },
   {
     "num": 58,
+    "especifico": true,
     "nome": "Kit 4 amortecedores Nakata Gol G5/G6/G7",
     "descricao": "Nota 4,8 · +1 mil vendidos",
     "preco": "R$ 882,60",
@@ -592,6 +599,7 @@ const PRODUTOS = [
   },
   {
     "num": 59,
+    "especifico": true,
     "nome": "Kit amortecedores Nakata Corsa / Celta / Prisma",
     "descricao": "Nota 4,8 · +5 mil vendidos",
     "preco": "R$ 624,57",
@@ -602,6 +610,7 @@ const PRODUTOS = [
   },
   {
     "num": 60,
+    "especifico": true,
     "nome": "Jogo de cabos e velas Gol / Fox / Polo 8v",
     "descricao": "Nota 4,9 · +5 mil vendidos",
     "preco": "R$ 149,29",
@@ -612,6 +621,7 @@ const PRODUTOS = [
   },
   {
     "num": 61,
+    "especifico": true,
     "nome": "Kit relação com retentor CG 150/160",
     "descricao": "Nota 4,9 · +10 mil vendidos",
     "preco": "R$ 165,84",
@@ -622,6 +632,7 @@ const PRODUTOS = [
   },
   {
     "num": 62,
+    "especifico": true,
     "nome": "Pneu traseiro Maggion Winner 90/90-18",
     "descricao": "Nota 4,7 · +50 mil vendidos",
     "preco": "R$ 179,74",
@@ -632,6 +643,7 @@ const PRODUTOS = [
   },
   {
     "num": 63,
+    "especifico": true,
     "nome": "Pneu traseiro Michelin Pilot Street 2",
     "descricao": "Nota 4,9 · +10 mil vendidos",
     "preco": "R$ 380,80",
@@ -652,6 +664,7 @@ const PRODUTOS = [
   },
   {
     "num": 65,
+    "especifico": true,
     "nome": "Escape esportivo Trioval CG 160",
     "descricao": "Nota 4,8 · +1 mil vendidos",
     "preco": "R$ 398,90",
@@ -662,6 +675,7 @@ const PRODUTOS = [
   },
   {
     "num": 66,
+    "especifico": true,
     "nome": "Bateria Moura MA5-D Titan / Fan / Bros",
     "descricao": "Nota 4,9 · +10 mil vendidos",
     "preco": "R$ 179,00",
@@ -672,6 +686,7 @@ const PRODUTOS = [
   },
   {
     "num": 67,
+    "especifico": true,
     "nome": "Par de amortecedores traseiros CG 150/160",
     "descricao": "Nota 4,8 · +10 mil vendidos",
     "preco": "R$ 170,99",
@@ -682,6 +697,7 @@ const PRODUTOS = [
   },
   {
     "num": 68,
+    "especifico": true,
     "nome": "Kit cilindro KMP CG / Bros 160",
     "descricao": "Nota 4,9 · +1 mil vendidos",
     "preco": "R$ 247,22",
@@ -692,6 +708,7 @@ const PRODUTOS = [
   },
   {
     "num": 69,
+    "especifico": true,
     "nome": "Pneu dianteiro Michelin Pilot Street 2 80/100-18",
     "descricao": "Nota 4,9 · +5 mil vendidos",
     "preco": "R$ 306,06",
@@ -702,6 +719,7 @@ const PRODUTOS = [
   },
   {
     "num": 70,
+    "especifico": true,
     "nome": "Disco de freio + pastilha CG 160 (2018 a 2024)",
     "descricao": "Nota 4,9 · +5 mil vendidos",
     "preco": "R$ 99,90",
@@ -893,6 +911,7 @@ const PRODUTOS = [
   },
   {
     "num": 89,
+    "especifico": true,
     "nome": "Par Retrovisor Moto Honda CG Titan 150 LD/LE",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 24,90",
@@ -903,6 +922,7 @@ const PRODUTOS = [
   },
   {
     "num": 90,
+    "especifico": true,
     "nome": "Kit 4 Piscas Seta LED Twister Titan Fan 125-150",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 41,89",
@@ -963,6 +983,7 @@ const PRODUTOS = [
   },
   {
     "num": 96,
+    "especifico": true,
     "nome": "Kit Correia Dentada Gol Voyage Parati Saveiro 1.6/1.8/2.0 AP",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 73,39",
@@ -973,6 +994,7 @@ const PRODUTOS = [
   },
   {
     "num": 97,
+    "especifico": true,
     "nome": "Jogo de Velas Bosch Fox/Gol/Saveiro G4-G7 1.0/1.6 8v Flex",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 78,79",
@@ -983,6 +1005,7 @@ const PRODUTOS = [
   },
   {
     "num": 98,
+    "especifico": true,
     "nome": "Filtro de Ar Tecfil Fox/Voyage/Gol G3-G6 1.0",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 25,13",
@@ -993,6 +1016,7 @@ const PRODUTOS = [
   },
   {
     "num": 99,
+    "especifico": true,
     "nome": "Vela NGK Moto CG 150/160 Titan Fan Start Bros",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 33,05",
@@ -1003,6 +1027,7 @@ const PRODUTOS = [
   },
   {
     "num": 100,
+    "especifico": true,
     "nome": "Vela NGK Yamaha Ignição FZ15 Crosser Factor Fazer 150",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 38,90",
@@ -1013,6 +1038,7 @@ const PRODUTOS = [
   },
   {
     "num": 101,
+    "especifico": true,
     "nome": "Filtro de Óleo Honda CRF250F/XRE300/Falcon/CRF300F",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 16,99",
@@ -1104,6 +1130,7 @@ const PRODUTOS = [
   },
   {
     "num": 110,
+    "especifico": true,
     "nome": "Bateria de Carro Moura 60Ah M60AD",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 689,95",
@@ -1114,6 +1141,7 @@ const PRODUTOS = [
   },
   {
     "num": 111,
+    "especifico": true,
     "nome": "Correia Alternador Elástica Gol/Saveiro/Voyage G5-G7/Fox",
     "descricao": "Achado novo · confira nota e vendas no anúncio",
     "preco": "R$ 62,40",
