@@ -336,7 +336,7 @@ const PRODUTOS = [
     "descricao": "Nota 4,8 · +10 mil vendidos",
     "preco": "R$ 399,99",
     "loja": "ml",
-    "categoria": "motos",
+    "categoria": "piloto",
     "link": "https://meli.la/2mbu4vr",
     "imagem": "img/p33.webp"
   },
@@ -1020,5 +1020,106 @@ const PRODUTOS = [
     "categoria": "oficina_moto",
     "link": "https://meli.la/1fsKBPd",
     "imagem": "img/p101.webp"
+  }
+,
+  {
+    "num": 102,
+    "nome": "Fita LED Automotiva DRL + Seta Sequencial 60cm",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 36,90",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/1FMxjfJ",
+    "imagem": "img/p102.webp"
+  },
+  {
+    "num": 103,
+    "nome": "Kit Lâmpadas Super LED Farol Alto/Baixo/Milha",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 214,00",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/2MQEnNA",
+    "imagem": "img/p103.webp"
+  },
+  {
+    "num": 104,
+    "nome": "Adesivo Olhos de LED Luminoso para Para-brisa",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 24,90",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/114bADF",
+    "imagem": "img/p104.webp"
+  },
+  {
+    "num": 105,
+    "nome": "Jogo Calota Centro Tampa Miolo Roda Aro 14/15/17",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 34,90",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/23qSBYj",
+    "imagem": "img/p105.webp"
+  },
+  {
+    "num": 106,
+    "nome": "Adaptador CarPlay/Android Auto Sem Fio 2 em 1",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 199,99",
+    "loja": "ml",
+    "categoria": "tecnologia",
+    "link": "https://meli.la/1LcoU9w",
+    "imagem": "img/p106.webp"
+  },
+  {
+    "num": 107,
+    "nome": "Carregador Veicular Turbo 4 em 1 USB/Tipo-C 120W",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 45,31",
+    "loja": "ml",
+    "categoria": "tecnologia",
+    "link": "https://meli.la/1vQwjc2",
+    "imagem": "img/p107.webp"
+  },
+  {
+    "num": 108,
+    "nome": "Baú Givi Monolock 27L E27M Traffic",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 316,10",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/2aWMRK5",
+    "imagem": "img/p108.webp"
+  },
+  {
+    "num": 109,
+    "nome": "Bauleto Stoned Tracker 35L Preto",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 232,79",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/18TgFE3",
+    "imagem": "img/p109.webp"
+  },
+  {
+    "num": 110,
+    "nome": "Bateria de Carro Moura 60Ah M60AD",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 689,95",
+    "loja": "ml",
+    "categoria": "oficina_carro",
+    "link": "https://meli.la/15gG5Nc",
+    "imagem": "img/p110.webp"
+  },
+  {
+    "num": 111,
+    "nome": "Correia Alternador Elástica Gol/Saveiro/Voyage G5-G7/Fox",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 62,40",
+    "loja": "ml",
+    "categoria": "oficina_carro",
+    "link": "https://meli.la/2hJujwf",
+    "imagem": "img/p111.webp"
   }
 ];
