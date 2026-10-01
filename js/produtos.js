@@ -810,4 +810,215 @@ const PRODUTOS = [
     "link": "https://meli.la/1eKFZ9m",
     "imagem": "img/p80.webp"
   }
+,
+  {
+    "num": 81,
+    "nome": "Aromatizante Cheirinho Odorizador Carro Automotivo 1L",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 35,87",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/1gnNkUD",
+    "imagem": "img/p81.webp"
+  },
+  {
+    "num": 82,
+    "nome": "Capa Para Banco Automotivo Universal Impermeável",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 157,37",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/1txMQ2U",
+    "imagem": "img/p82.webp"
+  },
+  {
+    "num": 83,
+    "nome": "Tapete Automotivo Universal 100% Borracha",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 85,49",
+    "loja": "ml",
+    "categoria": "estetica",
+    "link": "https://meli.la/1hjEgyv",
+    "imagem": "img/p83.webp"
+  },
+  {
+    "num": 84,
+    "nome": "Suporte de Celular Veicular 360° Painel/Mesa/Retrovisor",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 23,98",
+    "loja": "ml",
+    "categoria": "tecnologia",
+    "link": "https://meli.la/1rqCSGt",
+    "imagem": "img/p84.webp"
+  },
+  {
+    "num": 85,
+    "nome": "Dashcam Ddpai Mini Pro 2K Wi-Fi com visão noturna",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 284,28",
+    "loja": "ml",
+    "categoria": "tecnologia",
+    "link": "https://meli.la/28SEDmC",
+    "imagem": "img/p85.webp"
+  },
+  {
+    "num": 86,
+    "nome": "Triângulo de Sinalização Automotivo Refletivo",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 18,97",
+    "loja": "ml",
+    "categoria": "estrada",
+    "link": "https://meli.la/1ncioxg",
+    "imagem": "img/p86.webp"
+  },
+  {
+    "num": 87,
+    "nome": "Carregador Inteligente de Bateria Automotiva 12V 6A",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 47,99",
+    "loja": "ml",
+    "categoria": "estrada",
+    "link": "https://meli.la/2ABDZZ5",
+    "imagem": "img/p87.webp"
+  },
+  {
+    "num": 88,
+    "nome": "Extintor Veicular P1 ABC 1kg com validade de 5 anos",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 74,95",
+    "loja": "ml",
+    "categoria": "estrada",
+    "link": "https://meli.la/2ACDepp",
+    "imagem": "img/p88.webp"
+  },
+  {
+    "num": 89,
+    "nome": "Par Retrovisor Moto Honda CG Titan 150 LD/LE",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 24,90",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/2eXUAeA",
+    "imagem": "img/p89.webp"
+  },
+  {
+    "num": 90,
+    "nome": "Kit 4 Piscas Seta LED Twister Titan Fan 125-150",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 41,89",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/2oh4xmz",
+    "imagem": "img/p90.webp"
+  },
+  {
+    "num": 91,
+    "nome": "Manopla Esportiva Diamante Peso Curto Universal",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 23,51",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/1HA6WoF",
+    "imagem": "img/p91.webp"
+  },
+  {
+    "num": 92,
+    "nome": "Suporte de Celular Moto com Carregador no Guidão",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 21,99",
+    "loja": "ml",
+    "categoria": "motos",
+    "link": "https://meli.la/2tDwUF9",
+    "imagem": "img/p92.webp"
+  },
+  {
+    "num": 93,
+    "nome": "Balaclava Térmica Ninja UV50+ com Proteção Solar",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 19,00",
+    "loja": "ml",
+    "categoria": "piloto",
+    "link": "https://meli.la/1QLGZGA",
+    "imagem": "img/p93.webp"
+  },
+  {
+    "num": 94,
+    "nome": "Mochila Motoboy Impermeável Reforçada",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 73,89",
+    "loja": "ml",
+    "categoria": "piloto",
+    "link": "https://meli.la/2k3iFue",
+    "imagem": "img/p94.webp"
+  },
+  {
+    "num": 95,
+    "nome": "Kit Joelheira e Cotoveleira Polisport Devil",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 234,33",
+    "loja": "ml",
+    "categoria": "piloto",
+    "link": "https://meli.la/1BZgtCD",
+    "imagem": "img/p95.webp"
+  },
+  {
+    "num": 96,
+    "nome": "Kit Correia Dentada Gol Voyage Parati Saveiro 1.6/1.8/2.0 AP",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 73,39",
+    "loja": "ml",
+    "categoria": "oficina_carro",
+    "link": "https://meli.la/1Lm9Eb1",
+    "imagem": "img/p96.webp"
+  },
+  {
+    "num": 97,
+    "nome": "Jogo de Velas Bosch Fox/Gol/Saveiro G4-G7 1.0/1.6 8v Flex",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 78,79",
+    "loja": "ml",
+    "categoria": "oficina_carro",
+    "link": "https://meli.la/2pwg8kR",
+    "imagem": "img/p97.webp"
+  },
+  {
+    "num": 98,
+    "nome": "Filtro de Ar Tecfil Fox/Voyage/Gol G3-G6 1.0",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 25,13",
+    "loja": "ml",
+    "categoria": "oficina_carro",
+    "link": "https://meli.la/12C5hBt",
+    "imagem": "img/p98.webp"
+  },
+  {
+    "num": 99,
+    "nome": "Vela NGK Moto CG 150/160 Titan Fan Start Bros",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 33,05",
+    "loja": "ml",
+    "categoria": "oficina_moto",
+    "link": "https://meli.la/1sXR23Q",
+    "imagem": "img/p99.webp"
+  },
+  {
+    "num": 100,
+    "nome": "Vela NGK Yamaha Ignição FZ15 Crosser Factor Fazer 150",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 38,90",
+    "loja": "ml",
+    "categoria": "oficina_moto",
+    "link": "https://meli.la/1DydZzv",
+    "imagem": "img/p100.webp"
+  },
+  {
+    "num": 101,
+    "nome": "Filtro de Óleo Honda CRF250F/XRE300/Falcon/CRF300F",
+    "descricao": "Achado novo · confira nota e vendas no anúncio",
+    "preco": "R$ 16,99",
+    "loja": "ml",
+    "categoria": "oficina_moto",
+    "link": "https://meli.la/1fsKBPd",
+    "imagem": "img/p101.webp"
+  }
 ];
