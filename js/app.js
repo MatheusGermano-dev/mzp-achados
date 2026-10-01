@@ -105,7 +105,20 @@
   }
 
   const TODOS = (typeof PRODUTOS !== 'undefined' ? PRODUTOS : []).filter(p => linkValido(p.link));
-  const ordenados = TODOS.slice().sort((a, b) => (b.destaque ? 1 : 0) - (a.destaque ? 1 : 0) || (b.num || 0) - (a.num || 0));
+  // Ordem da vitrine: destaque primeiro; depois os achados que servem em qualquer carro/moto (genéricos);
+  // por último os específicos de modelo. Dentro de cada grupo, as categorias se alternam pra dar variedade.
+  const ORDEM_CAT = ['estetica', 'tecnologia', 'estrada', 'motos', 'piloto', 'oficina_carro', 'oficina_moto'];
+  const ordenados = (function () {
+    const base = TODOS.slice().sort((a, b) => (b.num || 0) - (a.num || 0));
+    const grupo = (esp, dest) => {
+      const filas = ORDEM_CAT.map(c => base.filter(p => p.categoria === c && !!p.especifico === esp && !!p.destaque === dest));
+      const out = [];
+      for (let i = 0; filas.some(f => i < f.length); i++) filas.forEach(f => { if (i < f.length) out.push(f[i]); });
+      return out;
+    };
+    const resto = base.filter(p => !ORDEM_CAT.includes(p.categoria));
+    return [].concat(grupo(false, true), grupo(true, true), grupo(false, false), grupo(true, false), resto);
+  })();
   let categoria = 'todos';
 
   // Tira acento e caixa pra busca achar "calca" = "Calça"
